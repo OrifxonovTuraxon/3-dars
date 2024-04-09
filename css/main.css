@@ -1,0 +1,30 @@
+
+
+.ul_title{
+	background-color: green;
+}
+.img_class{
+	width: 100px;
+	height: 100px;
+}
+.li_title{
+	background-color: white;
+	width: 300px;
+	text-align: center;
+}
+.text-title{
+	color: gray;
+}
+b{
+	color: black;
+}
+.personal{
+	color: gray;
+}
+.team{
+	color: greenyellow;
+
+}
+.corporate{
+	color: red;
+}
